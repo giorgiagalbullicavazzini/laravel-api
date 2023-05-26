@@ -1,13 +1,14 @@
 # Project Portfolio
 
-## Roadmap
+## Roadmap - Back End
 
-- [x] Create a migration for the technologies table
-- [x] Create the Technology model
-- [x] Create a migration for the project_technology pivot table
-- [x] Define the many to many relation into Technology and Project models
-- [x] Create the Technology model seeder
-- [x] In the creation and edit forms, the user can specify the project technologies
-- [x] Establish the validation rules for the project-technologies relation
-- [x] If available, print the project technologies into show.blade.php
-- [x] To manage the project technologies directly into the admin panel, add the CRUD operations for the Technology model
+- [ ] Create an Api/ProjectController to handle API calls and write the list of projects into a json file
+- [ ] To verify the data are accurate, test the API call using Postman
+
+## Roadmap - Front End
+
+- [ ] In a new repository, create a new Vue project using Vite and install Axios
+- [ ] Call the API from the primary Vue component to get all the projects
+- [ ] To verify the data are accurate, print the findings in console
+- [ ] To visualize a single project, make a new ProjectCard component
+- [ ] Visualize each project with this component
