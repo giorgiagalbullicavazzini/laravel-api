@@ -2,8 +2,8 @@
 
 ## Roadmap - Back End
 
-- [ ] Create an Api/ProjectController to handle API calls and write the list of projects into a json file
-- [ ] To verify the data are accurate, test the API call using Postman
+- [x] Create an Api/ProjectController to handle API calls and write the list of projects into a json file
+- [x] To verify the data are accurate, test the API call using Postman
 
 ## Roadmap - Front End
 
