@@ -4,7 +4,7 @@
 
 - [x] Create an Api/ProjectController to handle API calls and write the list of projects into a json file
 - [x] To verify the data are accurate, test the API call using Postman
-- [ ] Create an API route that displays the projects' details
+- [x] Create an API route that displays the projects' details
 
 ## Roadmap - Front End
 
