@@ -13,8 +13,8 @@
 - [x] To verify the data are accurate, print the findings in console
 - [x] To visualize a single project, make a new ProjectCard component
 - [x] Visualize each project with this component
-- [ ] Install Vue Router
-- [ ] Create the portfolio routes
-- [ ] Create all the pages
-- [ ] Create the params route and the project's details page
-- [ ] The portfolio can be navigated entirely
+- [x] Install Vue Router
+- [x] Create the portfolio routes
+- [x] Create all the pages
+- [x] Create the params route and the project's details page
+- [x] The portfolio can be navigated entirely
